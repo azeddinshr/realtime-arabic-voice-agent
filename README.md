@@ -1,5 +1,3 @@
-# File: README.md
-
 # Real Time Arabic Voice Agent with RAG
 
 Real-time Arabic voice assistant with RAG (Retrieval-Augmented Generation) using OpenAI Realtime API and LiveKit.
@@ -26,8 +24,8 @@ Real-time Arabic voice assistant with RAG (Retrieval-Augmented Generation) using
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/azeddinshr/arabic-voice-agent.git
-cd arabic-voice-agent
+git clone https://github.com/azeddinshr/realtime-arabic-voice-agent.git
+cd realtime-arabic-voice-agent
 ```
 
 2. **Create virtual environment**
