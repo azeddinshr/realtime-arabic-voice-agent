@@ -1,0 +1,27 @@
+# Virtual environment
+livekit/
+env/
+
+# ChromaDB data
+chroma_db/
+chroma_db.zip
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
